@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72451b27ac7f503459fa735e0f46bca3, type: 3}
+  m_Name: BasicShootingLv1
+  m_EditorClassIdentifier: 
+  specialStats: {fileID: 11400000, guid: e59d7f49e029bd447bec2b712716f90a, type: 2}
+  damage: 30
+  timeAlive: 0
+  coolDown: 0.5
+  isOneShot: 1
+  skill: {fileID: 11400000, guid: 7d822157e4fa3bb4a929463327e95d01, type: 2}

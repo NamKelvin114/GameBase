@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72451b27ac7f503459fa735e0f46bca3, type: 3}
+  m_Name: FireRocketLv1
+  m_EditorClassIdentifier: 
+  specialStats: {fileID: 11400000, guid: 105c171787cbc2f449725ba32e1b9499, type: 2}
+  damage: 20
+  timeAlive: 0
+  coolDown: 0.5
+  isOneShot: 1
+  skill: {fileID: 11400000, guid: 34c48558f95e1f34897c78de2b8bf3c7, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72451b27ac7f503459fa735e0f46bca3, type: 3}
+  m_Name: ShootingLightSkillLv1
+  m_EditorClassIdentifier: 
+  specialStats: {fileID: 11400000, guid: 022c06d8d7cf326469e121f788ad9220, type: 2}
+  damage: 10
+  timeAlive: 0
+  coolDown: 0.7
+  isOneShot: 1
+  skill: {fileID: 11400000, guid: 30ad0dd40cc55ef40a8d057d29fffd9f, type: 2}

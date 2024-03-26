@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb5a6d784efb5bb469f228811a6c4b48, type: 3}
+  m_Name: TaskData
+  m_EditorClassIdentifier: 
+  tasks:
+  - idTask: 1
+    numberRequired: 1
+    coinReward: 100
+    icon: {fileID: 21300000, guid: e67f3e1392588304eb80542773887f1a, type: 3}
+    taskTitle: ddd
+    taskType: 0
+  - idTask: 2
+    numberRequired: 2
+    coinReward: 200
+    icon: {fileID: 21300000, guid: e67f3e1392588304eb80542773887f1a, type: 3}
+    taskTitle: ffff
+    taskType: 0
+  - idTask: 3
+    numberRequired: 3
+    coinReward: 300
+    icon: {fileID: 21300000, guid: e67f3e1392588304eb80542773887f1a, type: 3}
+    taskTitle: ccc
+    taskType: 0
+  - idTask: 4
+    numberRequired: 4
+    coinReward: 400
+    icon: {fileID: 21300000, guid: e67f3e1392588304eb80542773887f1a, type: 3}
+    taskTitle: aaaa
+    taskType: 0
+  - idTask: 5
+    numberRequired: 5
+    coinReward: 500
+    icon: {fileID: 21300000, guid: e67f3e1392588304eb80542773887f1a, type: 3}
+    taskTitle: bbb
+    taskType: 0
+  firstCoinReward: 100
+  increaseCoin: 100
